@@ -1,0 +1,308 @@
+body{
+    background-image: url("bg.jpg");
+}
+.contact
+{
+    font-size: 100px;
+    margin-left: 70%;
+    display: inline;
+    color: silver;
+}
+.table
+{
+    margin-left: 70%;
+    margin-top: 20px;
+    color: silver;
+}
+.nav ul
+{
+    display: flex;
+    list-style: none;
+    gap: 250px;
+    margin-top: 130px;
+    border: solid 3px;
+    font-size: 50px;
+    color: whitesmoke;
+    border-radius: 15px;
+}
+.footer
+{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.homehead
+{
+    margin-left: 300px;
+    font-size: 100px;
+    color: antiquewhite;
+    display: inline;
+}
+.restbg1
+{
+    width: 450px;
+    height: 350px;
+    margin-left: 50px;
+    border: solid 3px whitesmoke;
+    display: inline;
+}
+.restbg2
+{
+    width: 450px;
+    height: 350px;
+    margin-left: 50px;
+    border: solid 3px whitesmoke;
+    display: inline;
+}
+.restbg3
+{
+    width: 400px;
+    height: 350px;
+    margin-left: 50px;
+    border: solid 3px whitesmoke;
+    display: inline ;
+}
+.footer2
+{
+    text-align: center;
+    color: aliceblue;
+
+    background-color:black;
+}
+.nav2 ul
+{
+    display: flex;
+    list-style: none;
+    gap: 300px;
+    border: solid 3px;
+    font-size: 30px;
+    color: rgb(183, 174, 174);
+    border-radius: 15px;
+}
+.search
+{
+    margin-left: 450px;
+    width: 650px;
+    height: 40px;
+}
+.menuhead
+{
+    text-align: center;
+    font-size: 100px;
+    color: rgb(255, 255, 255);
+}
+.button
+{
+    margin-left: 10px;
+    height: 40px;
+}
+.mainbox
+{
+    display: flex;
+    gap: 50px;
+    margin-top: 25px;
+    margin-left: 80px;
+}
+.food1
+{
+    height: 300px;
+    width: 250px;
+}
+.box1
+{
+    color: white;
+    border: solid 3px;
+    background-color: black;
+}
+box1 h3,h4
+{
+    text-align: center;
+}
+.food2
+{
+    height: 300px;
+    width: 250px;
+}
+.box2
+{
+    color: white;
+    border: solid 3px;
+    background-color: black;
+}
+.food3
+{
+    height: 300px;
+    width: 250px;
+}
+.box3
+{
+    color: white;
+    border: solid 3px;
+    background-color: black;
+}
+.food4
+{
+    height: 300px;
+    width: 250px;
+}
+.box4
+{
+    color: white;
+    border: solid 3px;
+    background-color: black;
+}
+.box5
+{
+    color: white;
+    border: solid 3px;
+    background-color: black;
+}
+.food5
+{
+    height: 300px;
+    width: 250px;
+}
+.nav3 ul
+{
+    display: flex;
+    list-style: none;
+    gap: 400px;
+    border: solid 3px;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    border-radius: 15px;
+    background-color: black;
+}
+.footer3
+{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.adminhead
+{
+    font-size: 100px;
+    text-align: center;
+    font-style: oblique;
+    color: antiquewhite;
+}
+.adminbox
+{
+    display: flex;
+    gap: 50px;
+    margin-top: 25px;
+    margin-left: 70px;
+}
+.one
+{
+    height: 300px;
+    width: 200px;
+    border: solid 3px;
+}
+.admin1
+{
+    color: white;
+    border: solid 3px;
+    background-color: silver;
+}
+.admin1 h3
+{
+    text-align: center;
+    color: black;
+}
+.admin2
+{
+    color: white;
+    border: solid 3px;
+    background-color: silver;
+}
+.admin2 h3{
+    text-align: center;
+    color: black;
+}
+.two
+{
+    height: 300px;
+    width: 200px;
+    border: solid 3px;
+}
+.three
+{
+    height: 300px;
+    width: 200px;
+    border: solid 3px;
+}
+.admin3
+{
+    color: white;
+    border: solid 3px;
+    background-color: silver;
+}
+.admin3 h3
+{
+    text-align: center;
+    color: black;
+}
+.admin4 h3{
+    text-align: center;
+    color: black;
+}
+.admin4{
+    color: white;
+    border: solid 3px;
+    background-color: silver;
+}
+.four
+{
+    height: 300px;
+    width: 200px;
+    border: solid 3px;
+}
+.five
+{
+    height: 300px;
+    width: 200px;
+    border: solid 3px;
+}
+.admin5
+{
+    color: white;
+    border: solid 3px;
+    background-color: silver;
+}
+.admin5 h3{
+    text-align: center;
+    color: black;
+}
+.admin6 h3{
+    text-align: center;
+    color: black;   
+}
+.admin6{
+    color: white;
+    border: solid 3px;
+    background-color: silver;
+}
+.six
+{
+    height: 300px;
+    width: 200px;
+    border: solid 3px;   
+}
+.nav4 ul
+{
+    display: flex;
+    list-style: none;
+    gap: 400px;
+    border: solid 3px;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    border-radius: 15px;
+    background-color: black;
+}
+.footer4
+{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
